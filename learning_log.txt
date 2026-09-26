@@ -6,4 +6,8 @@ Experiment 1: Creating a practice repository.
 Today, I created a separate folder to learn Git and GitHub safely.
 
 My goal is to understand how commits, branches, push, and pull work with vs code's built-
-in features
+in features.
+
+Experiment 2: Working with branches.
+
+I created a separate branch to practice making changes safely.
